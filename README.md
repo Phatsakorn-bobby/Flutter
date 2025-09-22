@@ -23,8 +23,14 @@
    ```bash
    flutter create luxury_category_app
    cd luxury_category_app
+   
    ```
-4) รันบนอีมูเลเตอร์หรือโทรศัพท์จริง:
+4) เปิด iOS Simulator:
+   ```bash
+   open -a Simulator
+   ```
+   
+5) รันบนอีมูเลเตอร์หรือโทรศัพท์จริง:
    ```bash
    flutter run
    ```
